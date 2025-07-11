@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1001,
+    "firstName": "Usha",
+    "lastName": "Bethampudi",
+    "email": "usha@example.com",
+    "department": "Engineering",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 1002,
+    "firstName": "Rahul",
+    "lastName": "Verma",
+    "email": "rahul@example.com",
+    "department": "Marketing",
+    "role": "Content Strategist"
+  },
+  {
+    "id": 1003,
+    "firstName": "Sneha",
+    "lastName": "Reddy",
+    "email": "sneha@example.com",
+    "department": "HR",
+    "role": "HR Manager"
+  }
+]
